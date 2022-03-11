@@ -1,6 +1,6 @@
 ### Cakes and Order
 
-![Cakes & Order](https://github.com/Into-Y0u/My-Life-in-Cognizant/blob/fa84948357164775484cd6049909d24498460e30/SQL%20Handson/CakeOrderingSystem%20(1).png | width = 50)
+![Cakes & Order](https://github.com/Into-Y0u/My-Life-in-Cognizant/blob/fa84948357164775484cd6049909d24498460e30/SQL%20Handson/CakeOrderingSystem%20(1).png)
 
 1. Write a query to display the customer details who have a gmail account. Sort the result set based on the customer name in descending order.
    ```sh
