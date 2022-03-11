@@ -6,8 +6,7 @@
 ### 1. Create Booking Table: 
    Write a query to create a Booking table with constraints mentioned.
    ```sh
-   CREATE TABLE booking (bookingid int,guestID int ,resortID int ,cabinID int ,fromdate Date ,todate Date ,adultCount int , childCount int ,petcount int , totalcharge int , 
-PRIMARY KEY (bookingid)
+   CREATE TABLE booking (bookingid int PRIMARY KEY  ,guestID int ,resortID int ,cabinID int ,fromdate Date ,todate Date ,adultCount int , childCount int ,petcount int , totalcharge int 
 );
    ```
 
